@@ -1,0 +1,4 @@
+blackrot
+healthy
+scab
+rust
